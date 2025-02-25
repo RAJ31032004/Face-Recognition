@@ -14,3 +14,4 @@ Improve accuracy and efficiency in student attendance tracking.
 Reduce the risk of proxy attendance.
 
 Provide an easy-to-use interface for students and faculty.
+
